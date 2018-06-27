@@ -1,2 +1,2 @@
 # Laravel
-Este reprositorio contiene código en laravel
+Este reprositorio contiene código de laravel
